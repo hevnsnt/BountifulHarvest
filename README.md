@@ -15,8 +15,7 @@
       ~The cup runneth over~
 ~~~
 
-Give those phishing scammers everything they have DREAMED ABOUT! 
-Have a phishing site that is looking to record credentials? Give them millions, now they have to deal with a giant data-set they cannot easily determine what is real and what is false.
+Have a phishing site that is looking to record credentials? Give those phishing scammers more than they have ever DREAMED ABOUT! Bountiful Harvest gives them millions of valid looking accounts, now they have to deal with a giant data-set they cannot easily determine what is real and what is false.
 
 
 **Current Status: Not working!**
