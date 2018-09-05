@@ -1,5 +1,5 @@
 # BountifulHarvest
-/* 
+'''
         ___
       .'=:-\  [Bountiful Harvest]
      /.='( `    [version: 0.0001]
@@ -12,6 +12,6 @@
           .O__/ (_88:::(())):.
                    `8':.     '
       ~The cup runneth over~
-*/      
+'''     
 Give those scammers everything they have DREAMED ABOUT!
   
