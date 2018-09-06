@@ -21,5 +21,5 @@ Have a phishing site that is looking to record credentials? Give those phishing 
 **Current Status: Not working!**
 
 To Do:
- * Read in json files into arrays
+ * make it work
  * Randomize everything (fname_lname@domain, flname@domain, lname@domain) 
